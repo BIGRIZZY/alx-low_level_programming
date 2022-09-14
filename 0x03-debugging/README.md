@@ -1,1 +1,1 @@
-how to debug a readme file
+debugging is good
